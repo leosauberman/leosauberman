@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning NGXS, Python for Statistics<br>🎯 Goals: Graduate!<br>🎲 Fun fact: I run faster than a shark. A shark swims faster than me. So, if a shark and I both competed in a triathlon, we would decide on the cycling 😅</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning NGXS, Python for Statistics<br>🎯 Goals: become a Front-end Expert!<br>🎲 Fun fact: I run faster than a shark. A shark swims faster than me. So, if a shark and I both competed in a triathlon, we would decide on cycling 😅</p>
 
 ###
 
